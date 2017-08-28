@@ -2,6 +2,8 @@
 Try to reproduce the look of the [npm Wikipedia page](https://en.wikipedia.org/wiki/Npm_\(software\)).
 
 Focus on layout first. Don't worry about specific like links, fonts, colors, sizes.
+
+Use semantic HTML:
 ![Semantic HTML layout](http://media02.hongkiat.com/html-5-semantics/document-outline-example.jpg)
 
 Don't use any JavaScript or CSS preprocessors.
