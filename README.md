@@ -14,6 +14,10 @@ Use semantic HTML:
 ## Setup
 To get started:
 ```
+git clone https://github.com/matt-tingen/html-css-workshop.git
+cd html-css-workshop
+git checkout -b wiki
+
 npm i
 npm start
 ```
